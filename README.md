@@ -1,28 +1,30 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-9d4edd?style=for-the-badge&logo=github&logoColor=white&color=000000" alt="Status" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-9d4edd?style=for-the-badge&logo=github&logoColor=white&color=000000" alt="Status" />
   <img src="https://img.shields.io/badge/STACK-FULLSTACK-9d4edd?style=for-the-badge&logoColor=white&color=000000" alt="Fullstack" />
-  <img src="https://img.shields.io/badge/MODE-LEARNING-9d4edd?style=for-the-badge&logo=gitbook&logoColor=white&color=000000" alt="Learning" />
-  <img src="https://img.shields.io/badge/FOCUS-CODE_QUALITY-9d4edd?style=for-the-badge&logo=jetbrains&logoColor=white&color=000000" alt="Code Quality" />
+  <img src="https://img.shields.io/badge/FOCUS-SOFTWARE_ENGINEERING-9d4edd?style=for-the-badge&logo=jetbrains&logoColor=white&color=000000" alt="Software Engineering" />
+  <img src="https://img.shields.io/badge/QUALITY-MAINTAINABLE_CODE-9d4edd?style=for-the-badge&logo=gitbook&logoColor=white&color=000000" alt="Maintainable Code" />
 </p>
 
 ---
 
-## 👋 Sobre mim
+## Sobre mim
 
-Sou **Matheus Resende**, desenvolvedor em evolução constante com foco em soluções fullstack e código de qualidade. Gosto de explorar diferentes linguagens e paradigmas para entender não apenas como as coisas funcionam, mas **por que** funcionam dessa forma.
+Sou **Matheus Resende**, desenvolvedor fullstack com foco em construir aplicações bem estruturadas, manuteníveis e orientadas a resultados. Tenho experiência com desenvolvimento backend, frontend e práticas de engenharia voltadas para clareza, consistência e evolução contínua do código.
 
-Atualmente imerso em **PHP/Laravel**, **Vue.js**, e exploração de arquitetura limpa — sempre buscando padrões que tornem o código mais legível, manutenível e eficiente.
+Atualmente trabalho principalmente com **PHP/Laravel** e **Vue.js**, aplicando princípios de arquitetura limpa, design patterns e boas práticas de desenvolvimento para criar soluções escaláveis e fáceis de manter.
 
-**Filosofia:** Código bom é aquele que o próximo (ou eu mesmo em 6 meses) consegue entender sem precisar de comentários explicativos.
+Meu foco técnico está em escrever software que seja simples de entender, seguro para evoluir e alinhado às necessidades reais do produto.
 
 ---
 
-## 🎯 Foco no momento
+## Foco técnico
 
-- 🏗️ Consolidar padrões **arquiteturais** em aplicações fullstack
-- 📚 Aprofundar em **design patterns** e SOLID principles
-- ⚡ Explorar **performance** e otimização de código
-- 🔧 Melhorar habilidades em **infraestrutura** e DevOps
+- Arquitetura de aplicações fullstack
+- Backend com PHP, Laravel, C# e APIs bem definidas
+- Frontend com Vue.js, HTML, CSS e interfaces funcionais
+- Modelagem de dados com PostgreSQL e MySQL
+- Qualidade de código, SOLID, design patterns e testes
+- Docker, Linux, Git e práticas de entrega contínua
 
 <p align="center">
   <a href="https://github-readme-activity-graph.vercel.app/graph?username=MathHRM&theme=github-compact&color=9d4edd">
@@ -32,7 +34,7 @@ Atualmente imerso em **PHP/Laravel**, **Vue.js**, e exploração de arquitetura 
 
 ---
 
-## ⭐ Projeto em Destaque
+## Projeto em destaque
 
 <p>
   <a href="https://github.com/MathHRM/cs-chat">
@@ -40,18 +42,18 @@ Atualmente imerso em **PHP/Laravel**, **Vue.js**, e exploração de arquitetura 
   </a>
 </p>
 
-Um **chat em tempo real** desenvolvido em **C#** com ênfase em arquitetura modular e comunicação eficiente. Explorei conceitos de:
+**cs-chat** é uma aplicação de chat em tempo real desenvolvida em **C#**, com foco em comunicação via sockets, separação de responsabilidades e arquitetura modular.
 
-- 💬 Sockets TCP/IP para mensageria
-- 🔄 Padrão Observer para notificações
-- 📦 Separação de concerns (Models, Views, Controllers)
-- 🛡️ Tratamento de exceções robusto
+Principais pontos técnicos:
 
-**Aprendizados:** Como estruturar aplicações que precisam lidar com múltiplas conexões simultâneas sem acoplamento excessivo.
+- Comunicação TCP/IP para troca de mensagens em tempo real
+- Implementação do padrão Observer para fluxo de notificações
+- Organização em camadas com separação entre models, views e controllers
+- Tratamento de exceções para melhorar estabilidade e previsibilidade
 
 ---
 
-## 🛠️ Stack e Ferramentas
+## Stack e ferramentas
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=9d4edd" alt="PHP" />
@@ -64,22 +66,21 @@ Um **chat em tempo real** desenvolvido em **C#** com ênfase em arquitetura modu
 
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=9d4edd" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=9d4edd" alt="MySQL" />
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=9d4edd" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=9d4edd" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=9d4edd" alt="Linux" />
 </p>
 
-### Por categoria:
-
-**Backend:** PHP, Laravel, C#, Python, Go  
-**Frontend:** Vue.js, HTML5, CSS/Tailwind  
-**Banco de Dados:** PostgreSQL, MySQL  
-**DevOps:** Docker, Linux, Git, CI/CD  
-**Padrões:** MVC, Clean Code, Design Patterns, SOLID
+**Backend:** PHP, Laravel, C#, Python, Go<br>
+**Frontend:** Vue.js, HTML5, CSS, Tailwind CSS<br>
+**Banco de dados:** PostgreSQL, MySQL<br>
+**DevOps:** Docker, Linux, Git, CI/CD<br>
+**Boas práticas:** MVC, Clean Code, SOLID, Design Patterns
 
 ---
 
-## 📊 Estatísticas
+## Estatísticas
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
@@ -100,15 +101,7 @@ Um **chat em tempo real** desenvolvido em **C#** com ênfase em arquitetura modu
 
 ---
 
-## 💡 Aprendizado Contínuo
-
-Estou sempre explorando novos conceitos e frameworks. Os repositórios acima refletem essa jornada — desde pequenos projetos educacionais até aplicações mais complexas.
-
-Se algo aqui te parecer interessante, **issues** e **PRs** são bem-vindos! 🚀
-
----
-
-## 📮 Contato
+## Contato
 
 <p align="center">
   <a href="mailto:matheushrm614@gmail.com" style="display: inline-block; padding: 0 15px;">
@@ -128,5 +121,5 @@ Se algo aqui te parecer interessante, **issues** e **PRs** são bem-vindos! 🚀
 ---
 
 <p align="center">
-  <sub>💜 Desenvolvendo soluções que fazem diferença</sub>
+  <sub>Desenvolvendo software com clareza, consistência e foco em valor.</sub>
 </p>
