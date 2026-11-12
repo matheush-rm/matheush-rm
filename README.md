@@ -10,10 +10,10 @@ Meu foco técnico está em escrever software que seja simples de entender, segur
   <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
     <tr>
       <td align="center" valign="top" style="border: none; padding: 0 8px 0 0;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MathHRM&theme=dark" alt="GitHub Stats" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=matheush-rm&theme=dark" alt="GitHub Stats" />
       </td>
       <td align="center" valign="top" style="border: none; padding: 0 0 0 8px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=MathHRM&theme=dark&background=000000&stroke=9d4edd&ring=9d4edd&fire=9d4edd&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=9d4edd&sideLabels=9d4edd&dates=ffffff" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=matheush-rm&theme=dark&background=000000&stroke=9d4edd&ring=9d4edd&fire=9d4edd&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=9d4edd&sideLabels=9d4edd&dates=ffffff" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
@@ -33,7 +33,7 @@ Meu foco técnico está em escrever software que seja simples de entender, segur
 ## Projeto em destaque
 
 <p>
-  <a href="https://github.com/MathHRM/cs-chat">
+  <a href="https://github.com/matheush-rm/cs-chat">
     <img src="https://img.shields.io/badge/cs--chat-FEATURED-9d4edd?style=for-the-badge&logo=github&logoColor=white&color=000000" alt="cs-chat Repository" />
   </a>
 </p>
