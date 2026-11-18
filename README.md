@@ -42,12 +42,12 @@ Meu foco técnico está em escrever software que seja simples de entender, segur
 
 Principais pontos técnicos:
 
-- Listeners contínuos por conta Telegram (MadelineProto) supervisionados por `systemd`
-- Integração com WhatsApp via Evolution API, por webhook
-- Regras por prefixo, conteúdo e regex
+- Integração com IA via provider abstrato e saída estruturada em JSON Schema: correspondência semântica de promoções e assistentes que geram regras e regex
+- Listeners contínuos por conta Telegram supervisionados por `systemd`
+- Integração com WhatsApp por webhook
+- Regras por prefixo, conteúdo, regex e IA
 - Notificações por e-mail, Web Push e WhatsApp em filas, com retentativas por canal
-- Integração com IA (OpenRouter/Gemini) via provider abstrato e saída estruturada em JSON Schema: correspondência semântica de promoções e assistentes que geram regras e regex
-- Painel administrativo com métricas, planos e feature flags
+- Idempotência na ingestão e nas notificações, com deduplicação por mensagem e por conteúdo normalizado
 
 ## Stack e ferramentas
 
