@@ -33,10 +33,12 @@ Meu foco técnico está em escrever software que seja simples de entender, segur
 ## Projeto em destaque
 
 <p>
-  <img src="https://img.shields.io/badge/Plant%C3%A3o_do_Desconto-FEATURED-9d4edd?style=for-the-badge&logo=laravel&logoColor=white&color=000000" alt="Plantão do Desconto" />
+  <a href="https://plantaododesconto.matheushrm.dev">
+    <img src="https://img.shields.io/badge/Plant%C3%A3o_do_Desconto-FEATURED-9d4edd?style=for-the-badge&logo=laravel&logoColor=white&color=000000" alt="Plantão do Desconto" />
+  </a>
 </p>
 
-**Plantão do Desconto** é uma aplicação **Laravel** que monitora grupos e canais de promoções no Telegram e WhatsApp e notifica o usuário quando uma oferta corresponde às suas regras.
+**Plantão do Desconto** é uma aplicação **Laravel** que monitora grupos e canais de promoções no Telegram e WhatsApp e notifica o usuário quando uma oferta corresponde às suas regras. Acesse em [plantaododesconto.matheushrm.dev](https://plantaododesconto.matheushrm.dev).
 
 Principais pontos técnicos:
 
