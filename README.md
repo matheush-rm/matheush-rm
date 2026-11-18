@@ -44,9 +44,9 @@ Principais pontos técnicos:
 
 - Listeners contínuos por conta Telegram (MadelineProto) supervisionados por `systemd`
 - Integração com WhatsApp via Evolution API, por webhook
-- Regras por prefixo, conteúdo e regex, com assistentes de IA (OpenRouter/Gemini)
+- Regras por prefixo, conteúdo e regex
 - Notificações por e-mail, Web Push e WhatsApp em filas, com retentativas por canal
-- Deduplicação por mensagem e por conteúdo normalizado
+- Integração com IA (OpenRouter/Gemini) via provider abstrato e saída estruturada em JSON Schema: correspondência semântica de promoções e assistentes que geram regras e regex
 - Painel administrativo com métricas, planos e feature flags
 
 ## Stack e ferramentas
