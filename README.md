@@ -2,7 +2,7 @@
 
 Sou **Matheus Resende**, desenvolvedor fullstack com foco em construir aplicações bem estruturadas, manuteníveis e orientadas a resultados. Tenho experiência com desenvolvimento backend, frontend e práticas de engenharia voltadas para clareza, consistência e evolução contínua do código.
 
-Atualmente trabalho principalmente com **PHP/Laravel** e **Vue.js**, aplicando princípios de arquitetura limpa, design patterns e boas práticas de desenvolvimento para criar soluções escaláveis e fáceis de manter.
+Atualmente trabalho principalmente com **PHP/Laravel** e **React**, aplicando princípios de arquitetura limpa, design patterns e boas práticas de desenvolvimento para criar soluções escaláveis e fáceis de manter.
 
 Meu foco técnico está em escrever software que seja simples de entender, seguro para evoluir e alinhado às necessidades reais do produto.
 
@@ -23,7 +23,7 @@ Meu foco técnico está em escrever software que seja simples de entender, segur
 
 - Arquitetura de aplicações fullstack
 - Backend com PHP, Laravel e APIs bem definidas
-- Frontend com Vue.js, React, HTML, CSS e interfaces funcionais
+- Frontend com React, HTML, CSS e interfaces funcionais
 - Modelagem de dados com PostgreSQL
 - Qualidade de código, SOLID, design patterns e testes
 - Docker, Linux, Git e práticas de entrega contínua
@@ -33,26 +33,25 @@ Meu foco técnico está em escrever software que seja simples de entender, segur
 ## Projeto em destaque
 
 <p>
-  <a href="https://github.com/matheush-rm/cs-chat">
-    <img src="https://img.shields.io/badge/cs--chat-FEATURED-9d4edd?style=for-the-badge&logo=github&logoColor=white&color=000000" alt="cs-chat Repository" />
-  </a>
+  <img src="https://img.shields.io/badge/Plant%C3%A3o_do_Desconto-FEATURED-9d4edd?style=for-the-badge&logo=laravel&logoColor=white&color=000000" alt="Plantão do Desconto" />
 </p>
 
-**cs-chat** é uma aplicação de chat em tempo real desenvolvida em **C#**, com foco em comunicação via sockets, separação de responsabilidades e arquitetura modular.
+**Plantão do Desconto** é uma aplicação **Laravel** que monitora grupos e canais de promoções no Telegram e WhatsApp e notifica o usuário quando uma oferta corresponde às suas regras.
 
 Principais pontos técnicos:
 
-- Comunicação TCP/IP para troca de mensagens em tempo real
-- Implementação do padrão Observer para fluxo de notificações
-- Organização em camadas com separação entre models, views e controllers
-- Tratamento de exceções para melhorar estabilidade e previsibilidade
+- Listeners contínuos por conta Telegram (MadelineProto) supervisionados por `systemd`
+- Integração com WhatsApp via Evolution API, por webhook
+- Regras por prefixo, conteúdo e regex, com assistentes de IA (OpenRouter/Gemini)
+- Notificações por e-mail, Web Push e WhatsApp em filas, com retentativas por canal
+- Deduplicação por mensagem e por conteúdo normalizado
+- Painel administrativo com métricas, planos e feature flags
 
 ## Stack e ferramentas
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=9d4edd" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=9d4edd" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vuedotjs&logoColor=9d4edd" alt="Vue.js" />
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=9d4edd" alt="React" />
 </p>
 
